@@ -254,3 +254,4 @@ D:\MicroProject\Crud Operations\Crud Operations\obj\Debug\net8.0\Crud Operations
 D:\MicroProject\Crud Operations\Crud Operations\obj\Debug\net8.0\Crud Operations.genruntimeconfig.cache
 D:\MicroProject\Crud Operations\Crud Operations\obj\Debug\net8.0\ref\Crud Operations.dll
 D:\MicroProject\Crud Operations\Crud Operations\bin\Debug\net8.0\MySql.Data.EntityFrameworkCore.dll
+D:\MicroProject\Crud Operations\Crud Operations\obj\Debug\net8.0\Crud Operations.sourcelink.json
